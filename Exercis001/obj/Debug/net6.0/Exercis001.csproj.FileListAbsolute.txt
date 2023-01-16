@@ -1,0 +1,15 @@
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\bin\Debug\net6.0\Exercis001.exe
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\bin\Debug\net6.0\Exercis001.deps.json
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\bin\Debug\net6.0\Exercis001.runtimeconfig.json
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\bin\Debug\net6.0\Exercis001.dll
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\bin\Debug\net6.0\Exercis001.pdb
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.csproj.AssemblyReference.cache
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.AssemblyInfoInputs.cache
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.AssemblyInfo.cs
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.csproj.CoreCompileInputs.cache
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.dll
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\refint\Exercis001.dll
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.pdb
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\Exercis001.genruntimeconfig.cache
+C:\Users\Vetal\Desktop\GB\GB-C#\Exercises\Exercis001\obj\Debug\net6.0\ref\Exercis001.dll
